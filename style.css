@@ -50,7 +50,7 @@ button{
     background-color: rgb(163, 44, 44);
     color: white;
     border: none;
-    transition: 0.2s ease;
+    transition: 0.5s ease;
     font-weight: 550;
     opacity: 0.9;
 }
